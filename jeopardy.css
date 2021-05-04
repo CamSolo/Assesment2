@@ -1,0 +1,40 @@
+/* some colors you may find useful:
+  #115ff4
+  #060ce9
+  #28a200
+  #8d2ab5
+  #74119c
+*/
+
+table {
+  height: 50em;
+  text-align: center;
+  }
+
+  @media screen and (min-width: 1920px){
+    table{
+      width: 70em;
+    }
+    
+  }
+thead tr {
+  height: 4em;
+}
+ 
+
+tbody td i{
+  font-size: 30px;
+}
+
+tbody tr {
+  height: 8em;
+}
+
+span{
+  font-size: 10em;
+  color:white;
+}
+
+thead {
+  text-transform: uppercase;
+}
