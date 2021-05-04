@@ -38,3 +38,7 @@ span{
 thead {
   text-transform: uppercase;
 }
+
+td:hover {
+  cursor: pointer;
+}
